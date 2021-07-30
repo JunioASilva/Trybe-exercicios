@@ -83,27 +83,47 @@
     //     case "rainha":
     //         console.log("anda para qualquer casa");               
     // }      
-        let grade = 101;
+    
+    // let grade = 101;
 
-        if(grade <= 0 || grade > 100){
-            console.log("Error");
-        }
-        else if(grade >= 90){
-            console.log("A");
-        }
-        else if (grade >= 80){
-            console.log("B");
-        }
-        else if (grade >= 70){
-            console.log("C");
-        }
-        else if (grade >= 60){
-            console.log("D");
-        }
-        else if (grade >= 50){
-            console.log("E");
-        }
-        else if (grade > 50){
-            console.log("F");
-        }
-        
+    // if(grade <= 0 || grade > 100){
+    //     console.log("Error");
+    // }
+    // else if(grade >= 90){
+    //     console.log("A");
+    // }
+    // else if (grade >= 80){
+    //     console.log("B");
+    // }
+    // else if (grade >= 70){
+    //     console.log("C");
+    // }
+    // else if (grade >= 60){
+    //     console.log("D");
+    // }
+    // else if (grade >= 50){
+    //     console.log("E");
+    // }
+    // else if (grade > 50){
+    //     console.log("F");
+    // }
+
+    // let firstNumber = 9;
+    // let secondNumber = 11;
+    // let tirthNumber = 21;
+    // let condiction = false;
+
+    // if((firstNumber % 2 === 1 || secondNumber % 2 === 1 || tirthNumber % 2 === 1)){
+    //     condiction = true;
+    // }
+    //     console.log(condiction);
+
+    let impostoInss;
+    let impostoIr;
+
+    
+    
+
+
+    
+
