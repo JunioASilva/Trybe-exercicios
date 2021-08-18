@@ -32,7 +32,7 @@
 //         console.log("o maior é o number3");
 //     }
 
-    // let parametro = 0;
+    // let parametro = -2;
 
     // let valor = Math.sign(parametro);
 
