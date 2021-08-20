@@ -5,8 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap-5.1.0-dist/css/bootstrap.min.css">
 </head>
-    <div class="formularioCurriculo">
+    <div >
+    <div class="mb-3">
         <fieldset>
 
         <form action="" method="GET">
@@ -42,9 +46,10 @@
         <label for="tipo-ap">
             <input type="radio" id="tipo-ap" name="tipo-residence" value="ap" required>Apartamento
         </label><br>
-
+    
         </fieldset>
-
+    </div>
+    <div>
         <fieldset>
 
         <label for="curriculo">
@@ -64,15 +69,19 @@
             <input type="text" id="inicio" name="inicio" required >
         </label><br>    
         </fieldset>
-
+    </div>
+    <div>
             <button class="submit-button" type="submit">Enviar</button>
             
         <input type="reset">
         </form>
+    </div>    
     </div>
     
 
 <body>
+    <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+
     <script src="script.js"></script>
 </body>
 </html>
